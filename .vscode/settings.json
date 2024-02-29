@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "build_frame.h": "c",
+        "setup_address.h": "c"
+    }
+}
